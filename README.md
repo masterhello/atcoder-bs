@@ -1,2 +1,2 @@
 # atcoder-bs
-practiceA
+-practiceA
